@@ -7,3 +7,5 @@ Este programa utiliza la libreria Arduino HID Project, para instalarla desde el 
 
 La tabla de teclas pueden encontrarlas aqui: https://www.arduino.cc/en/Reference/KeyboardModifiers
 
+La instrucciones para ensamblar el kit se encuentran en http://www.gsampallo.com/blog/2018/10/09/armado-hotkeys-v1-0/
+
